@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Recursos | Ciberseguridad | Pentesting</title>
+    <description>My blog :)</description>
+    <link>http://localhost:4000</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
+    <author>
+      <name>pwnExchange</name>
+      <email>someone@somewebsite.somedomain</email>
+      <uri>https://github.com/pwnExchange</uri>
+    </author>
+    
+      <item>
+        <title>GPO Abuse</title>
+        <description>&lt;p&gt;En este artículo hablaremos de como abusar del Group Policy Object &lt;strong&gt;(GPO)&lt;/strong&gt;.
+Antes de empezar con lo anterior mencionado, debemos saber que es el GPO y como funciona, esto es muy sencillo ya que el GPO son una serie de configuraciones que definen como tiene que comportarse el sistema para un grupo definido de usuarios. Podemos usar esto para movernos lateralmente o escalar privilegios.&lt;/p&gt;
+
+&lt;p&gt;Para enumerar los derechos del GPO podemos usar el siguiente comando:&lt;/p&gt;
+&lt;div class=&quot;language-powershell highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;n&quot;&gt;Get-NetGPO&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;o&quot;&gt;|&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;n&quot;&gt;select&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;displayname&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;p&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Próximamente...&lt;/code&gt;&lt;/p&gt;
+</description>
+        <pubDate>Thu, 01 May 2025 00:00:00 -0600</pubDate>
+        <link>http://localhost:4000//GPO-Abuse</link>
+        <link href="http://localhost:4000/GPO-Abuse"/>
+        <guid isPermaLink="true">http://localhost:4000/GPO-Abuse</guid>
+      </item>
+    
+  </channel>
+</rss>
