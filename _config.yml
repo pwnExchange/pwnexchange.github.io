@@ -1,8 +1,8 @@
 title: Recursos | Ciberseguridad | Pentesting
 description: "My blog :)"
-author: "pwnExchange"
+author: 
   name: "pwnExchange"
-  email: "someone@somewebsite.somedomain"
+  email: "pwnexchange@gmail.com"
   url: "https://github.com/pwnExchange"
 
 baseurl: /
