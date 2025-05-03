@@ -1,5 +1,5 @@
 ---
-title: GPO Abuse
+title: Port Discovery pwntools 
 published: true
 ---
 En este artículo nos adentraremos en crear nuestro propio portDiscovery en Python usando **PwnTools**, pero antes de empezar debemos de saber que es PwnTools.
